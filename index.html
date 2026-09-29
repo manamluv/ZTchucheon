@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>캐릭터 취향 테스트</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <header class="hero">
+      <span class="eyebrow">CHARACTER MATCH</span>
+      <h1>내 취향 캐릭터 찾기</h1>
+      <p>몇 가지 취향을 고르면 가장 잘 맞는 캐릭터를 추천해드려요.</p>
+    </header>
+
+    <section class="test-card">
+      <div class="progress-wrap" id="progressWrap">
+        <div class="progress-info"><span id="stepText">STEP 1 / 4</span><span id="progressPercent">25%</span></div>
+        <div class="progress-bar"><div id="progressFill"></div></div>
+      </div>
+      <div id="screen"></div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

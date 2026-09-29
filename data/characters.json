@@ -1,0 +1,42 @@
+[
+  {
+    "id": "char001",
+    "name": "권시현",
+    "type": "공",
+    "genres": ["현대"],
+    "subGenres": ["현실·일상"],
+    "personalities": ["다정", "레걿"],
+    "image": "",
+    "description": "레걿"
+  },
+  {
+    "id": "char002",
+    "name": "이환",
+    "type": "공",
+    "genres": ["동양풍"],
+    "subGenres": ["조선·사극"],
+    "personalities": ["다정","순애","집착"],
+    "image": "",
+    "description": "휄소바라기"
+  },
+  {
+    "id": "char003",
+    "name": "부남",
+    "type": "비",
+    "genres": ["SF","현대"],
+    "subGenres": ["사이버펑크"],
+    "personalities": ["다정","순애","집착"],
+    "image": "",
+    "description": "냉정하고 계산적이지만 가까워질수록 의외의 다정함이 드러나는 타입."
+  },
+  {
+    "id": "char004",
+    "name": "연화",
+    "type": "비",
+    "genres": ["동양풍", "인외"],
+    "subGenres": ["조선·사극", "요괴·괴물"],
+    "personalities": ["다정","순애","집착"],
+    "image": "",
+    "description": "말수는 적지만 한번 마음을 주면 오래 지키는 타입."
+  }
+]
