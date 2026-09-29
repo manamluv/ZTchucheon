@@ -1,32 +1,39 @@
 [
   {
     "id": "char001",
-    "name": "권시현",
+    "name": "유진",
     "type": "공",
-    "genres": ["현대"],
-    "subGenres": ["현실·일상"],
-    "personalities": ["다정", "레걿"],
-    "image": "",
-    "description": "레걿"
+    "genres": ["현대", "인외"],
+    "subGenres": ["특수·범죄", "뱀파이어"],
+    "personalities": ["다정", "능글", "집착"],
+    "jobs": ["조폭", "대표"],
+    "appearances": ["흑발", "장신"],
+    "relationships": ["계약관계", "혐관"],
+    "description": "여유롭고 능글맞지만 자기 사람에게는 유난히 집착하는 타입.",
+    "quote": "도망가도 돼. 잡는 건 내가 할 테니까."
   },
   {
     "id": "char002",
-    "name": "이환",
+    "name": "도윤",
     "type": "공",
-    "genres": ["동양풍"],
-    "subGenres": ["조선·사극"],
-    "personalities": ["다정","순애","집착"],
-    "image": "",
-    "description": "휄소바라기"
+    "genres": ["현대"],
+    "subGenres": ["현실·일상"],
+    "personalities": ["다정", "순애", "헌신"],
+    "jobs": ["회사원"],
+    "appearances": ["흑발", "단정함"],
+    "relationships": ["친구에서 연인"],
+    "description": "표현은 담백하지만 행동으로 마음을 보여주는 안정적인 타입."
   },
   {
     "id": "char003",
-    "name": "부남",
+    "name": "세라",
     "type": "비",
-    "genres": ["SF","현대"],
+    "genres": ["SF"],
     "subGenres": ["사이버펑크"],
-    "personalities": ["다정","순애","집착"],
-    "image": "",
+    "personalities": ["냉정", "까칠", "계략"],
+    "jobs": ["해커"],
+    "appearances": ["은발", "날카로운 인상"],
+    "relationships": ["라이벌"],
     "description": "냉정하고 계산적이지만 가까워질수록 의외의 다정함이 드러나는 타입."
   },
   {
@@ -35,8 +42,10 @@
     "type": "비",
     "genres": ["동양풍", "인외"],
     "subGenres": ["조선·사극", "요괴·괴물"],
-    "personalities": ["다정","순애","집착"],
-    "image": "",
+    "personalities": ["무뚝뚝", "순애", "헌신"],
+    "jobs": ["호위"],
+    "appearances": ["장발", "고전적"],
+    "relationships": ["주종관계"],
     "description": "말수는 적지만 한번 마음을 주면 오래 지키는 타입."
   }
 ]
